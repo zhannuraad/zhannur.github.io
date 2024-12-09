@@ -382,3 +382,97 @@ $(document).ready(function() {
     </script>
 </body>
 </html>
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie>
+        <title>Гарри Поттер и философский камень</title>
+        <genre>Фэнтези</genre>
+        <year>2001</year>
+    </movie>
+    <movie>
+        <title>Гарри Поттер и тайная комната</title>
+        <genre>Приключения</genre>
+        <year>2002</year>
+    </movie>
+    <movie>
+        <title>Гарри Поттер и узник Азкабана</title>
+        <genre>Фэнтези</genre>
+        <year>2004</year>
+    </movie>
+    <movie>
+        <title>Гарри Поттер и кубок огня</title>
+        <genre>Фэнтези</genre>
+        <year>2005</year>
+    </movie>
+    <movie>
+        <title>Гарри Поттер и орден Феникса</title>
+        <genre>Фэнтези</genre>
+        <year>2007</year>
+    </movie>
+    <movie>
+        <title>Гарри Поттер и принц-полукровка</title>
+        <genre>Мелодрама</genre>
+        <year>2009</year>
+    </movie>
+    <movie>
+        <title>Гарри Поттер и дари смерти: Часть 1</title>
+        <genre>Драма</genre>
+        <year>2010</year>
+    </movie>
+    <movie>
+        <title>Гарри Поттер и дари смерти: Часть 2</title>
+        <genre>Драма</genre>
+        <year>2011</year>
+    </movie>
+    <movie>
+        <title>Шерлок Холмс</title>
+        <genre>Детектив</genre>
+        <year>2009</year>
+    </movie>
+    <movie>
+        <title>Шерлок Холмс: Игра теней</title>
+        <genre>Детектив</genre>
+        <year>2011</year>
+    </movie>
+    <movie>
+        <title>Зодиак</title>
+        <genre>Триллер</genre>
+        <year>2007</year>
+    </movie>
+    <movie>
+        <title>Исчезнувшая</title>
+        <genre>Триллер</genre>
+        <year>2014</year>
+    </movie>
+    <movie>
+        <title>Убийство на улице Морг</title>
+        <genre>Мистика</genre>
+        <year>2006</year>
+    </movie>
+    <movie>
+        <title>Пятый элемент</title>
+        <genre>Научная фантастика</genre>
+        <year>1997</year>
+    </movie>
+    <movie>
+        <title>Интерстеллар</title>
+        <genre>Научная фантастика</genre>
+        <year>2014</year>
+    </movie>
+    <movie>
+        <title>Титаник</title>
+        <genre>Романтика</genre>
+        <year>1997</year>
+    </movie>
+    <movie>
+        <title>500 дней лета</title>
+        <genre>Романтика</genre>
+        <year>2009</year>
+    </movie>
+    <movie>
+        <title>Темные начала</title>
+        <genre>Приключения</genre>
+        <year>2007</year>
+    </movie>
+</movies>
+
